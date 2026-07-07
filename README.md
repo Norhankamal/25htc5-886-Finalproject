@@ -1,4 +1,4 @@
-# 25htc5 Beauty Assistant — CISC 886 Cloud Computing Project
+# Intelligent Marketing Content Generation (Beauty Assistant) Platform Using Artificial Intelligence
 **Group 31 | Queen's University**
 
 A domain-specific beauty and personal care chatbot built by fine-tuning **Llama 3.2-1B** on 23.9 million Amazon product reviews, deployed on AWS with a full end-to-end cloud pipeline.
